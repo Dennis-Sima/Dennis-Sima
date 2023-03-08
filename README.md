@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dennis-Sima
-- 👀 I’m interested in technology startups
-- 🌱 I’m currently learning to evolve my potential
-- 💞️ I’m looking to collaborate on new ideas
+- 👀 I’m interested in startups
+- 👨‍💻 I’m currently working an some apps
+- 🤝 I’m looking to collaborate on new ideas
 - 📫 How to reach me
 
 <!---
