@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dennis-Sima
 - 👀 I’m interested in startups
-- 👨‍💻 I’m currently working an some apps
+- 👨‍💻 I’m currently working on ReadHero
 - 🤝 I’m looking to collaborate on new ideas
 - 📫 How to reach me
 
